@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![miseyu's Stats](https://github-readme-stats.vercel.app/api?username=miseyu&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 ![miseyu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miseyu&theme=onedark&hide_border=true)
 ![miseyu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miseyu&theme=onedark&show_icons=true&hide_border=true&layout=compact)
