@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm miseyu</h1>
-<h3 align="center">I have been building infrastructure, Server side programming.</h3>
 
 ![miseyu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miseyu&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
