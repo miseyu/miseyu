@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm miseyu</h1>
 
+[![miseyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=miseyu&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![miseyu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miseyu&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
