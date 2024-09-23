@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm miseyu</h1>
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miseyu&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miseyu&theme=github_dark)]
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miseyu&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miseyu&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-
+[![miseyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=miseyu&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![miseyu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miseyu&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
 
 
